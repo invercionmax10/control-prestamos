@@ -1,0 +1,22 @@
+# Local settings and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Local application data / exports
+*.xlsx
+*.xls
+*.docx
+*.pdf
+Tarjeta_Cobro_Prestamo_v2.xlsx
+*.zip
+*.bak
+*.log
+
+# Operating system and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

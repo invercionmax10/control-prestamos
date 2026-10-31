@@ -1,0 +1,15 @@
+.git
+.gitignore
+.env
+.env.*
+!.env.example
+node_modules
+coverage
+*.xlsx
+*.xls
+*.docx
+*.pdf
+Tarjeta_Cobro_Prestamo_v2.xlsx
+*.zip
+*.bak
+*.log
